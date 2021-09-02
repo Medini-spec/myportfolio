@@ -301,7 +301,8 @@ section .title:after{
 .services .serv-content .card:hover .box{
 	transform: scale(1.05);
 }
-.services .serv-content .card .text{
+.services .serv-content .card .text a{
+	color: crimson;
 	position: relative;
 	font-size: 19px;
 	font-weight: 500;
