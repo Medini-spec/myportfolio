@@ -293,9 +293,9 @@ section .title:after{
 	transition: all 0.3s ease;
 	position: relative;	
 }
-.services .serv-content .card:hover{
+/* .services .serv-content .card:hover{
 	background: crimson;
-}
+} */
 .services .serv-content .card .box{
 	width: 100% !important;
 	transition: all 0.3s ease;
