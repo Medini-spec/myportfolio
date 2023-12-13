@@ -293,6 +293,7 @@ section .title:after{
 	position: relative;	
 }
 .services .serv-content .card:hover{
+	color: #fff;
 	background: crimson;
 }
 .services .serv-content .card .box{
@@ -302,7 +303,7 @@ section .title:after{
 	transform: scale(1.05);
 }
 .services .serv-content .card .text a{
-	color: crimson;
+	color: #fff;
 	position: relative;
 	font-size: 19px;
 	font-weight: 500;
